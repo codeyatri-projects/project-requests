@@ -17,7 +17,7 @@ Every project must include:
 
 **License File Required:**
 - Include a `LICENSE` file in your project root.
-- Download the template here: [LICENSE]()
+- Download the template here: [LICENSE](https://github.com/codeyatri-projects/project-requests/blob/project-requests/LICENSE)
 
 **Summary:**
 - Codeyatri holds rights as the organizational maintainer.
