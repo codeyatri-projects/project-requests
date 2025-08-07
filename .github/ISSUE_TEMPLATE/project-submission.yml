@@ -1,0 +1,59 @@
+name: 🚀 Request to Add Project
+description: Submit your project to be listed under Codeyatri organization
+title: "[Project Request] <Project Title>"
+labels: [project-request]
+body:
+  - type: input
+    id: project-title
+    attributes:
+      label: 📛 Project Title
+      placeholder: Enter your project name
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 📝 Project Description
+      placeholder: Write a summary of your project
+    validations:
+      required: true
+
+  - type: textarea
+    id: readme
+    attributes:
+      label: 📘 Paste your full README.md content
+      description: README must include "Contributed to Codeyatri" or your request will be rejected
+      placeholder: Paste your full project README.md here
+    validations:
+      required: true
+
+  - type: input
+    id: tech-stack
+    attributes:
+      label: 🛠️ Tech Stack
+      placeholder: (e.g., React, Node.js, MongoDB)
+    validations:
+      required: true
+
+  - type: input
+    id: github-username
+    attributes:
+      label: 🙋 Your GitHub Username
+      placeholder: e.g., @yourusername
+    validations:
+      required: true
+
+  - type: input
+    id: repo-link
+    attributes:
+      label: 🔗 GitHub Repo Link (optional)
+      placeholder: https://github.com/yourusername/project-name
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: 💬 Additional Notes (optional)
+      placeholder: Anything else you want us to know?
