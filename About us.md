@@ -1,3 +1,4 @@
+![WhatsApp Image 2025-08-06 at 20 50 59_67b0bdbb](https://github.com/user-attachments/assets/d71d5d6a-5d03-45ec-a8a4-9b11b5ece072)
  
 # Welcome to the Codeyatri GitHub Organization! 🚀
 
