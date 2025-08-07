@@ -1,5 +1,9 @@
+![WhatsApp Image 2025-08-06 at 20 50 59_67b0bdbb](https://github.com/user-attachments/assets/678d4149-2c76-4680-9dbd-678b3fbb42ff)
+
+
 About Codeyatri GitHub Organization
-Codeyatri –  A community that codes, connect & create ; it’s our mission. The Codeyatri GitHub Organization is the official collaborative hub for every coder, builder, and innovator in our community. Whether you're just starting your coding journey or you're an experienced developer with projects to showcase, Codeyatri is your open-source launchpad.
+Codeyatri –  A community that codes, connect & create ; 
+It’s our mission. The Codeyatri GitHub Organization is the official collaborative hub for every coder, builder, and innovator in our community. Whether you're just starting your coding journey or you're an experienced developer with projects to showcase, Codeyatri is your open-source launchpad.
 
 What We Do
 At the heart of the Codeyatri GitHub Organization is collaborative growth. We aim to:
