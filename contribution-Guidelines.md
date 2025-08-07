@@ -1,4 +1,4 @@
- [CONTRIBUTING (2).md](https://github.com/user-attachments/files/21669510/CONTRIBUTING.2.md)
+ 
 # 🚀 Codeyatri Contributor Guidelines
 
 Welcome to Codeyatri — a growing tech community where builders share, learn, and grow together. If you're submitting a project under the Codeyatri GitHub organization, follow these essential guidelines to ensure quality, collaboration, and community spirit.
