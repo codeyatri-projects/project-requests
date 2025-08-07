@@ -38,3 +38,8 @@ Codeyatri GitHub Organization is your platform to build, share, and shine—toge
 If your project shows product-level potential, the Codeyatri core team will take initiative to help you launch it as a real-world product, or even support you in starting your own startup around it. We are not just a tech community—**we are your launchpad to build something big.**
 
 So, if you’ve got an idea or a finished project—let’s put it on the map.
+
+## Not forget to read 
+   --How to add project.md.          
+   --Contribution-Guidelines.md.     
+   
