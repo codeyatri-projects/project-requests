@@ -11,15 +11,20 @@ Every project must include:
 - The line "Contributed to Codeyatri" clearly mentioned in the README
 - Organized code and files (no zip files or link-only submissions)
 
-## 🧾 2. License (Required)
-✅ All projects must include an open-source license — we recommend the MIT License
+### 🧾 2. License (Required)
 
-**Why?**
-- It allows others to use, modify, and learn from your code
-- Ensures you retain credit and legal protection
+> ✅ All projects must include a license. Use the official **Codeyatri MIT License** template.
 
-**How?**
-- Add a LICENSE file in your project root using the MIT template.
+**License File Required:**
+- Include a `LICENSE` file in your project root.
+- Download the template here: [LICENSE]()
+
+**Summary:**
+- Codeyatri holds rights as the organizational maintainer.
+- Contributors retain authorship but must acknowledge Codeyatri in all reuse.
+- Ensures legal protection for contributors and users.
+
+---
 
 ## 🧠 3. Code Quality & Review
 Projects are manually reviewed before approval. Submissions will be rejected if they:
