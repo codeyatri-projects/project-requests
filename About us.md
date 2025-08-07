@@ -40,6 +40,6 @@ If your project shows product-level potential, the Codeyatri core team will take
 So, if you’ve got an idea or a finished project—let’s put it on the map.
 
 ## Not forget to read 
-   --How to add project.md.          
+   --[How to add project.md](https://github.com/codeyatri-projects/project-requests/blob/project-requests/How%20to%20add%20project.md)          
    --Contribution-Guidelines.md.     
    
