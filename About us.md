@@ -43,5 +43,9 @@ So, if you’ve got an idea or a finished project—let’s put it on the map.
    --[How to add project.md](https://github.com/codeyatri-projects/project-requests/blob/project-requests/How%20to%20add%20project.md)          
    --[Contribution-Guidelines.md](https://github.com/codeyatri-projects/project-requests/blob/project-requests/contribution-Guidelines.md)     
 
- ## join community 
+ ##   join community 
    **[Code-Yatri](https://chat.whatsapp.com/LZPQrvj4OLQ80RCJYgKBqN)**
+
+ ## Follow us 
+   [Instagram](https://www.instagram.com/code.yatri/profilecard/?igsh=MTNtNnd2dmIxYmtyYQ==)
+   [LinkedIn](https://www.linkedin.com/in/team-codeyatri-604950378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
